@@ -1,0 +1,9 @@
+downloads
+*.html
+rerun.txt
+*.iml
+.idea
+*.ipr
+*.iws
+build
+html-report
